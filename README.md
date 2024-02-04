@@ -4,7 +4,7 @@
 ## Software Development Professional and Student 
 
 - 👨‍💻 I’m currently working with Nethues Technologies and work on web development technologies like MYSQL, JavaScript, PHP, Node, JQuery, HTML and CMS like Expression engine, PrestaShop, Magento2, shopify, wordpress, OutSystems etc.
-- 📚 I’m currently learning AWS and REACT JS 😅
+- 📚 I’m currently learning AWS and Azure 😅
 - 💪🏼 Future Goals: Learn more technologies - Next target is Python and sone latest JS libraries.
 - ⚡ Fun fact: I love to fly kites and long rides on motorcycle.
 
